@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Utitlised LLMs to create a context aware email classification system. 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -36,24 +36,12 @@ Briefly outline the technologies, frameworks, and tools used in development.
 Describe the major technical or non-technical challenges your team encountered.
 
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+1.  Create OpenApi Key.
+2.  Update directory in classify.py script to the location where email pdfs are saved.
+3.  Execute classify.py.
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Backend: Python, LangChain
 
 ## 👥 Team
 - **Prabhu** - [GitHub](#) | [LinkedIn](#)
